@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a front-end developer from Bangladesh. I make beautiful front-end based web applicatrions. <br><br>- 📚 I'm currently learning typeScript<br>- ⚡ In my free time I like to watch movies</p>
+<p align="left">I’m a web developer with a passion for creating scalable and efficient web applications. Experienced in working with technologies like Tailwind CSS, React, and Node.js, I’m always eager to learn and explore new tools and techniques. I enjoy solving complex problems and continuously strive to improve my skills. Feel free to reach out for collaboration or just to connect!</p>
 
 ###
 
