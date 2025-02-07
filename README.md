@@ -63,16 +63,16 @@ I’m a passionate web developer who enjoys building responsive, scalable, and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
 </p>
 
-
 <h3 align="left">🔥   My Stats :</h3>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjida-khanam778&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjida-khanam778&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
- <a  href="https://github.com/Sanjida-Khanam778" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjida-Khanam778&theme=radical" alt="GitHub Streak" />
+<p>
+  <a href="https://github.com/Sanjida-Khanam778">
+  <img src="https://streak-stats.demolab.com?user=Sanjida-Khanam778&theme=radical" alt="GitHub Streak" />
 </a>
+</p>
 
 ###
