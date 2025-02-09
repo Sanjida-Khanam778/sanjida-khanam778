@@ -14,7 +14,6 @@
   </a>
 </div>
 
-
 ###
 
 <h1 align="center">Front-end Developer</h1>
@@ -43,7 +42,6 @@ I’m a passionate web developer who enjoys building responsive, scalable, and e
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
 
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
