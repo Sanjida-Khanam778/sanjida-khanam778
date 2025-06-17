@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/sr5Z1Zm.png" />     
 </div>    
      
-###         
+###          
     
 <div align="center"> 
   <a href="https://www.linkedin.com/in/sanjida-khanam-ice" target="_blank">
