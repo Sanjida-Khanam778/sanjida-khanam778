@@ -26,16 +26,17 @@
 
 <p align="left">
   <strong>Sanjida Khanam</strong><br>
-  <em>Front-end Developer</em><br><br>
+  <em>Front-end Developer at Joint Venture AI</em><br><br>
 
-  I’m a passionate web developer who enjoys building responsive, scalable, and efficient web applications. With experience in technologies like Tailwind CSS, React, Node.js, and Redux, I’m always looking for ways to improve and learn new skills. I love tackling complex problems and continuously push myself to stay up to date with the latest trends and tools in web development.
+  I’m a passionate web developer who enjoys building responsive, scalable, and efficient web applications. Currently, I’m working at Joint Venture AI, where I focus on API integration and developing intuitive user interfaces using React. I love tackling complex problems, constantly improving my skills, and staying up-to-date with the latest technologies in web development.
 </p>
 
 ### 🚀 Current Activities  
-- Diving into *Next.js & TypeScript* for better scalability ⚡  
+- Currently working at *Joint Venture AI*, integrating APIs and developing UI using *React* ⚡  
+- Diving deeper into *Next.js & TypeScript* for scalable solutions 🛠  
 - Building *Neo Bazar* – A collaborative e-commerce platform 🛒  
 - Sharpening my *full-stack development* skills 🔥  
-- Exploring advanced *React.js* & *performance optimizations* 🚀  
+- Exploring advanced *React.js* performance optimizations 🚀  
 - Contributing to *open-source* & learning *best coding practices* 💡
 
 ---
