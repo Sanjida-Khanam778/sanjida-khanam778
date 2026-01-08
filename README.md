@@ -60,6 +60,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="60" height="60"/>
 </p>
+<br />
+
+<picture align="center">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanjida-khanam778&radius=16&theme=react&area=true&order=5&bg_color=fff&color=000&title_color=000&hide_border=false&hide_title=false"  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanjida-khanam778&radius=16&theme=react&area=true&order=5"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjida-khanam778&radius=16&theme=react&area=true&order=5&bg_color=fff&color=000&title_color=000&hide_border=false&hide_title=false"  />
+</picture>
 
 ### 🔥 My Stats
 
