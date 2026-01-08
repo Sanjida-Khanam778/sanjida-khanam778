@@ -34,7 +34,6 @@
 ### 🚀 Current Activities  
 - Currently working at *Joint Venture AI*, integrating APIs and developing UI using *React* ⚡  
 - Diving deeper into *Next.js & TypeScript* for scalable solutions 🛠  
-- Building *Neo Bazar* – A collaborative e-commerce platform 🛒  
 - Sharpening my *full-stack development* skills 🔥  
 - Exploring advanced *React.js* performance optimizations 🚀  
 - Contributing to *open-source* & learning *best coding practices* 💡
