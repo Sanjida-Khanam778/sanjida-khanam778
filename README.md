@@ -31,12 +31,12 @@
   I’m a passionate web developer who enjoys building responsive, scalable, and efficient web applications. Currently, I’m working at Joint Venture AI, where I focus on API integration and developing intuitive user interfaces using React. I love tackling complex problems, constantly improving my skills, and staying up-to-date with the latest technologies in web development.
 </p>
 
-### 🚀 Current Activities  
-- Currently working at *Joint Venture AI*, integrating APIs and developing UI using *React* ⚡  
-- Diving deeper into *Next.js & TypeScript* for scalable solutions 🛠  
-- Sharpening my *full-stack development* skills 🔥  
-- Exploring advanced *React.js* performance optimizations 🚀  
-- Contributing to *open-source* & learning *best coding practices* 💡
+###  Current Activities  
+- Currently working at *Joint Venture AI*, integrating APIs and developing UI using *React* 
+- Diving deeper into *Next.js & TypeScript* for scalable solutions 
+- Sharpening my *full-stack development* skills 
+- Exploring advanced *React.js* performance optimizations 
+- Contributing to *open-source* & learning *best coding practices*
 
 ---
 
@@ -68,7 +68,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjida-khanam778&radius=16&theme=react&area=true&order=5&bg_color=fff&color=000&title_color=000&hide_border=false&hide_title=false"  />
 </picture>
 
-### 🔥 My Stats
+###  My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjida-khanam778&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
